@@ -27,70 +27,45 @@ Este **PRD (Product Requirements Document)** estabelece o protocolo operacional,
 
 ---
 
-## 🤖 3. Organograma do seu Conselho de Saúde (Agentes IA)
+## 📅 3. Cronograma e Estratégia de Jejum Semanal (Protocolo Feminino)
+*Baseado no guia "Emagrecimento para Mulheres" da Academia do Jejum. A variação de horas é o segredo para evitar a adaptação metabólica e quebrar o platô.*
 
-Para governar este PRD, ativamos um time de 5 especialistas dedicados ao seu acompanhamento diário:
+### 🔄 Ciclo de 7 Dias:
 
-```
-                  [ VOCÊ - CO-AUTORA DO PROCESSO ]
-                                │
-                                ▼
-         ┌──────────────────────┼──────────────────────┐
-         ▼                      ▼                      ▼
-  🥦 Dr. Fast & Nutri      💪 Coach Fit         🧠 Mindset & Habits
-  (Jejum e Nutrição)     (Treino e Músculos)     (Comportamento)
-         │                      │                      │
-         └──────────────────────┼──────────────────────┘
-                                ▼
-                        🩺 Dr. Integra
-                     (Hormônios e Sono)
-                                │
-                                ▼
-                       ⚖️ O Sintetizador
-                       (Rotina e Metas)
-```
+| Dia | Meta de Jejum | Janela Alimentar | Foco do Dia & Dicas da Equipe |
+| :---: | :---: | :---: | :--- |
+| **Dia 1** | **12h (Fisiológico)** | 8h às 20h | **Início**: Refeições leves com foco em vegetais e proteínas limpas na quebra. |
+| **Dia 2** | **13h (Progressivo)** | 9h às 21h | **Hormonal**: Garanta uma dose de proteína em cada refeição. Controle de calorias. |
+| **Dia 3** | **12h (Fisiológico)** | 8h às 20h | **Estabilização**: Redução de calorias residuais e foco em densidade nutricional. |
+| **Dia 4** | **14h (Intermediário)** | 10h às 20h | **Flexibilidade**: Varie as fontes de proteínas e gorduras boas (azeite, abacate). |
+| **Dia 5** | **16h (Avançado)** | 12h às 20h | **Autofagia**: O dia mais longo de jejum. Atenção redobrada ao sono e hidratação. |
+| **Dia 6** | **14h (Intermediário)** | 10h às 20h | **Reposição**: Mantenha a ingestão de água alta. Excelente dia para treinar. |
+| **Dia 7** | **12h (Descanso)** | 8h às 20h | **Consolidação**: Dia de descanso metabólico e consolidação dos resultados da semana. |
+
+*Repetir o protocolo para o segundo ciclo de 7 dias (até completar o desafio de 15 dias).*
 
 ---
 
-## 📐 4. Protocolo de Partida: Registro de Métricas (Obrigatório)
+## 🍽️ 4. Sugestão de Refeições para Quebra de Jejum (Sem Pico de Insulina)
 
-Antes de iniciar o Dia 1, a equipe exige a realização do registro inicial para que possamos enxergar e celebrar a evolução real.
+A quebra do jejum é o momento mais crítico do seu dia. Evite quebrar o jejum apenas com frutas ou shakes calóricos para não disparar a insulina. Use uma das opções recomendadas:
 
-### ⚖️ A. Como fazer sua Pesagem Correta
-1. Pese-se **em jejum**, logo pela manhã.
-2. Vá ao banheiro antes de subir na balança.
-3. Suba na balança **sem roupas pesadas**.
-4. Use sempre a **mesma balança** durante todos os 15 dias.
-
-### 👖 B. A Foto com a "Calça Apertada" (Seu Marco Visual)
-1. Escolha uma calça que esteja **apertada** (que fecha, mas incomoda e aperta).
-2. Vista-a e tire uma foto de frente, em pé, com postura reta.
-3. Garanta que a foto enquadre o **corpo inteiro** (incluindo o rosto e os pés).
-4. Use luz natural ou um ambiente muito bem iluminado.
-5. **Inviolável**: Tire a foto final no Dia 15 no **mesmo lugar, com a mesma pose e mesma roupa**. Ela vai folgar!
-
----
-
-## 🗓️ 5. O Checklist Diário "Sem Quebrar a Corrente"
-
-Para manter a sua corrente firme por 15 dias seguidos e conquistar os brindes da **Academia do Jejum**, marque cada elo diariamente:
-
-- [ ] **Tomar água ao acordar**: Hidratação imediata para ativar o metabolismo.
-- [ ] **Raspar a língua**: Higienização matinal para remover toxinas acumuladas durante o sono.
-- [ ] **Bater a meta de água personalizada**: 
-  $$\text{Seu Peso Atual (kg)} \times 35\text{ ml} = \text{Meta Diária (L)}$$
-  *(Exemplo: se você pesa 70kg, sua meta é 2.450 ml ou 2,4L por dia).*
-- [ ] **Jejum mínimo de 12 horas**: Janela ideal para descanso digestivo e ativação de autofagia.
-- [ ] **Quebrar o jejum com consciência**: Seguir a ordem de ingestão científica (ver Seção 6).
-- [ ] **Meditação espiritual (5 minutos)**: Leitura e reflexão do versículo diário para fortalecer a mente.
-- [ ] **Item Livre Personalizado 1**: ________________________
-- [ ] **Item Livre Personalizado 2**: ________________________
+* **🍳 Opção 1 (Proteica & Anti-inflamatória)**:
+  * 2 ovos cozidos ou mexidos.
+  * Tomates picados e couve refogada.
+  * 1 fio de azeite de oliva extra virgem.
+* **🥛 Opção 2 (Prática & Rápida)**:
+  * 1 dose de Whey Protein de alta qualidade.
+  * Bebida vegetal de amêndoas ou coco.
+  * 1 colher de semente de chia ou linhaça (deixe hidratar por 5 min).
+* **🥗 Opção 3 (Saciante & Almoço)**:
+  * Mix de folhas verdes escuras (alface, rúcula, espinafre).
+  * 150g de peito de frango grelhado ou desfiado.
+  * Azeite e limão para temperar.
 
 ---
 
-## 🥦 6. Diretrizes Alimentares: O Guia de Ingestão Científica
-
-A sua equipe de nutrição determinou regras rígidas sobre o que é permitido durante e após o período de jejum para blindar o seu metabolismo.
+## 🥦 5. Diretrizes Alimentares: O que QUEBRA e NÃO QUEBRA o Jejum
 
 ### 🚫 O que QUEBRA o Jejum (Proibido na janela de jejum):
 * **Mel**: Rico em frutose e glicose, quebra o jejum imediatamente.
@@ -109,11 +84,9 @@ A sua equipe de nutrição determinou regras rígidas sobre o que é permitido d
 
 ---
 
-## 🍽️ 7. A Ordem Correta dos Alimentos (Fórmula da Saciedade)
+## 🍽️ 6. A Ordem Correta dos Alimentos (Fórmula da Saciedade)
 
-Para manter a estabilidade da sua curva glicêmica, evitar a fome rebote e garantir que o seu corpo queime gordura de forma contínua, **nunca quebre o jejum com frutas ou shakes**. 
-
-Ao fazer suas refeições, siga rigorosamente a seguinte **Ordem dos Alimentos**:
+Para manter a estabilidade da sua curva glicêmica, evitar a fome rebote e garantir que o seu corpo queime gordura de forma contínua, siga rigorosamente a seguinte **Ordem dos Alimentos** nas refeições principais:
 
 ```
   1ª ETAPA: Verduras e Legumes (Fibras que forram o estômago e diminuem a velocidade de absorção)
@@ -127,16 +100,31 @@ Ao fazer suas refeições, siga rigorosamente a seguinte **Ordem dos Alimentos**
 
 ---
 
-## 🛠️ 8. Plano de Ação & Próximos Passos
+## 📐 7. Protocolo de Registro de Métricas (Obrigatório)
 
-Para iniciar oficialmente a execução deste PRD sob a auditoria do seu conselho de agentes de saúde, complete os passos abaixo:
+### ⚖️ A. Como fazer sua Pesagem Correta
+1. Pese-se **em jejum**, logo pela manhã, após ir ao banheiro.
+2. Suba na balança **sem roupas pesadas** e use sempre a **mesma balança**.
 
-1. **Defina a sua Meta de Água**: Calcule seu peso x 35 e anote aqui.
-2. **Defina seus Itens Livres**: Escolha duas metas pessoais para o checklist (ex: "Fazer 15 min de caminhada", "Desligar telas às 22h").
-3. **Registro Inicial**: Realize a pesagem matinal em jejum e tire a foto oficial com a calça apertada.
-4. **Primeira Postagem**: Comprometa-se com a sua jornada. 
+### 👖 B. A Foto com a "Calça Apertada" (Seu Marco Visual)
+1. Escolha uma calça que esteja **apertada** (que fecha, mas incomoda).
+2. Vista-a e tire uma foto de frente, em pé, com postura reta, mostrando o **corpo inteiro**.
+3. **Inviolável**: Tire a foto final no Dia 15 no **mesmo lugar, com a mesma pose e mesma roupa** para comparação.
+
+---
+
+## 🗓️ 8. O Checklist Diário "Sem Quebrar a Corrente"
+
+- [ ] **Tomar água ao acordar**
+- [ ] **Raspar a língua**
+- [ ] **Bater a meta de água personalizada** ($\text{Peso} \times 35\text{ ml}$)
+- [ ] **Cumprir a meta de Jejum do dia** (ex: 12h, 13h, 14h, 16h)
+- [ ] **Quebrar o jejum com consciência** (usando a ordem ou opções recomendadas)
+- [ ] **Meditação espiritual (5 minutos)** (leitura do versículo diário)
+- [ ] **Consumo de proteínas em todas as refeições** (essencial para preservação muscular)
+- [ ] **Atividade física diária** (mínimo 15-30 min de caminhada, musculação ou treino leve)
 
 ---
 
 > [!TIP]
-> **Mensagem do Sintetizador**: "Best, a constância supera a intensidade. Escreva o seu compromisso, tire a sua foto, e lembre-se: a cada dia que você mantém a corrente firme, você se aproxima de uma identidade de total controle e liberdade biológica. Vamos juntas!"
+> **Mensagem do Sintetizador**: "Variar o tempo de jejum ao longo da semana confunde o metabolismo feminino, estimulando a queima de gordura visceral de forma contínua e saudável. Mastigue bem, mantenha o foco nas proteínas e proteja a sua corrente! Nós estamos monitorando cada dia!"
