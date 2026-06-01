@@ -27,7 +27,18 @@ Este **PRD (Product Requirements Document)** estabelece o protocolo operacional,
 
 ---
 
-## 📅 3. Cronograma e Estratégia de Jejum Semanal (Protocolo Feminino)
+## 📏 3. Registro do Ponto de Partida (Sua Ficha Técnica)
+* **Peso Inicial**: 115 kg
+* **Altura**: 174 cm (1,74 m)
+* **Meta Diária de Água**: **4,0 Litros por dia** *(Cálculo personalizado: $115\text{ kg} \times 35\text{ ml} = 4.025\text{ ml}$)*
+* **Circunferência da Cintura**: `________ cm`
+* **Circunferência do Quadril**: `________ cm`
+* **Circunferência da Barriga**: `________ cm`
+* **Calça de Controle**: `________________________`
+
+---
+
+## 📅 4. Cronograma e Estratégia de Jejum Semanal (Protocolo Feminino)
 *Baseado no guia "Emagrecimento para Mulheres" da Academia do Jejum. A variação de horas é o segredo para evitar a adaptação metabólica e quebrar o platô.*
 
 ### 🔄 Ciclo de 7 Dias:
@@ -46,7 +57,7 @@ Este **PRD (Product Requirements Document)** estabelece o protocolo operacional,
 
 ---
 
-## 🍽️ 4. Sugestão de Refeições para Quebra de Jejum (Sem Pico de Insulina)
+## 🍽️ 5. Sugestão de Refeições para Quebra de Jejum (Sem Pico de Insulina)
 
 A quebra do jejum é o momento mais crítico do seu dia. Evite quebrar o jejum apenas com frutas ou shakes calóricos para não disparar a insulina. Use uma das opções recomendadas:
 
@@ -65,7 +76,7 @@ A quebra do jejum é o momento mais crítico do seu dia. Evite quebrar o jejum a
 
 ---
 
-## 🥦 5. Diretrizes Alimentares: O que QUEBRA e NÃO QUEBRA o Jejum
+## 🥦 6. Diretrizes Alimentares: O que QUEBRA e NÃO QUEBRA o Jejum
 
 ### 🚫 O que QUEBRA o Jejum (Proibido na janela de jejum):
 * **Mel**: Rico em frutose e glicose, quebra o jejum imediatamente.
@@ -84,7 +95,7 @@ A quebra do jejum é o momento mais crítico do seu dia. Evite quebrar o jejum a
 
 ---
 
-## 🍽️ 6. A Ordem Correta dos Alimentos (Fórmula da Saciedade)
+## 🍽️ 7. A Ordem Correta dos Alimentos (Fórmula da Saciedade)
 
 Para manter a estabilidade da sua curva glicêmica, evitar a fome rebote e garantir que o seu corpo queime gordura de forma contínua, siga rigorosamente a seguinte **Ordem dos Alimentos** nas refeições principais:
 
@@ -95,36 +106,30 @@ Para manter a estabilidade da sua curva glicêmica, evitar a fome rebote e garan
   2ª ETAPA: Proteínas e Gorduras Saudáveis (Carnes, peixes, ovos - garantem saciedade profunda)
     │
     ▼
-  3ª ETAPA (Opcional): Carboidratos Complexos (Arroz, feijão, batata-doce - apenas no final!)
+  3ª ETAPA (Opcional): Carboidratos Complexos (Arroz, feijão, batata-doces - apenas no final!)
 ```
 
 ---
 
-## 📐 7. Protocolo de Registro de Métricas (Obrigatório)
-
-### ⚖️ A. Como fazer sua Pesagem Correta
-1. Pese-se **em jejum**, logo pela manhã, após ir ao banheiro.
-2. Suba na balança **sem roupas pesadas** e use sempre a **mesma balança**.
-
-### 👖 B. A Foto com a "Calça Apertada" (Seu Marco Visual)
+## 👖 8. O Registro Visual: Foto com a "Calça Apertada"
 1. Escolha uma calça que esteja **apertada** (que fecha, mas incomoda).
 2. Vista-a e tire uma foto de frente, em pé, com postura reta, mostrando o **corpo inteiro**.
 3. **Inviolável**: Tire a foto final no Dia 15 no **mesmo lugar, com a mesma pose e mesma roupa** para comparação.
 
 ---
 
-## 🗓️ 8. O Checklist Diário "Sem Quebrar a Corrente"
+## 🗓️ 9. O Checklist Diário "Sem Quebrar a Corrente"
 
 - [ ] **Tomar água ao acordar**
 - [ ] **Raspar a língua**
-- [ ] **Bater a meta de água personalizada** ($\text{Peso} \times 35\text{ ml}$)
+- [ ] **Bater a meta de água**: **4,0 Litros por dia**
 - [ ] **Cumprir a meta de Jejum do dia** (ex: 12h, 13h, 14h, 16h)
 - [ ] **Quebrar o jejum com consciência** (usando a ordem ou opções recomendadas)
 - [ ] **Meditação espiritual (5 minutos)** (leitura do versículo diário)
-- [ ] **Consumo de proteínas em todas as refeições** (essencial para preservação muscular)
-- [ ] **Atividade física diária** (mínimo 15-30 min de caminhada, musculação ou treino leve)
+- [ ] **Item Livre 1: Consumir proteínas em todas as refeições** *(Preservação de massa muscular)*
+- [ ] **Item Livre 2: Atividade física diária (Mínimo de 15 minutos)** *(Caminhada, musculação ou treino em casa)*
 
 ---
 
 > [!TIP]
-> **Mensagem do Sintetizador**: "Variar o tempo de jejum ao longo da semana confunde o metabolismo feminino, estimulando a queima de gordura visceral de forma contínua e saudável. Mastigue bem, mantenha o foco nas proteínas e proteja a sua corrente! Nós estamos monitorando cada dia!"
+> **Mensagem do Sintetizador**: "Best, variando o tempo de jejum e consumindo proteína em todas as refeições, evitamos a perda de massa magra e maximizamos a perda de gordura visceral. A sua meta de hidratação é de 4 litros diários! Vamos firme com a corrente!"
