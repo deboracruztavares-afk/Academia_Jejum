@@ -39,7 +39,7 @@ Este **PRD (Product Requirements Document)** estabelece o protocolo operacional,
 ---
 
 ## 📅 4. Cronograma e Estratégia de Jejum Semanal (Protocolo Feminino)
-*Baseado no guia "Emagrecimento para Mulheres" da Academia do Jejum. A variação de horas é o segredo para evitar a adaptação metabólica e quebrar o platô.*
+*A alternância e variação de horas são fundamentais para confundir o metabolismo feminino, evitar o platô e queimar gordura de forma contínua.*
 
 ### 🔄 Ciclo de 7 Dias:
 
@@ -57,79 +57,59 @@ Este **PRD (Product Requirements Document)** estabelece o protocolo operacional,
 
 ---
 
-## 🍽️ 5. Sugestão de Refeições para Quebra de Jejum (Sem Pico de Insulina)
+## 🥦 5. Diretrizes da Quebra de Jejum Perfeita (Emagrecimento)
 
-A quebra do jejum é o momento mais crítico do seu dia. Evite quebrar o jejum apenas com frutas ou shakes calóricos para não disparar a insulina. Use uma das opções recomendadas:
+Para acelerar a queima de gordura preservando os músculos, a refeição de quebra deve ser de **baixa caloria, rica em proteínas, fibras, gorduras boas e o mínimo/zero de carboidrato**:
 
-* **🍳 Opção 1 (Proteica & Anti-inflamatória)**:
-  * 2 ovos cozidos ou mexidos.
-  * Tomates picados e couve refogada.
-  * 1 fio de azeite de oliva extra virgem.
-* **🥛 Opção 2 (Prática & Rápida)**:
-  * 1 dose de Whey Protein de alta qualidade.
-  * Bebida vegetal de amêndoas ou coco.
-  * 1 colher de semente de chia ou linhaça (deixe hidratar por 5 min).
-* **🥗 Opção 3 (Saciante & Almoço)**:
-  * Mix de folhas verdes escuras (alface, rúcula, espinafre).
-  * 150g de peito de frango grelhado ou desfiado.
-  * Azeite e limão para temperar.
+* **🍳 Opção Recomendada**: 2 ovos cozidos ou mexidos, verduras e legumes picados (tomate, salsa, couve) e 1 fio de azeite de oliva extra virgem.
 
 ---
 
-## 🥦 6. Diretrizes Alimentares: O que QUEBRA e NÃO QUEBRA o Jejum
+## 🥩 6. Regras Críticas do Conselho de Nutrição e Fisiologia
 
-### 🚫 O que QUEBRA o Jejum (Proibido na janela de jejum):
-* **Mel**: Rico em frutose e glicose, quebra o jejum imediatamente.
-* **Leite (qualquer tipo)**: Contém lactose e proteínas que ativam a insulina.
-* **Alimentos com calorias**: Quebram o jejum fisiológico.
-* **Carboidratos e açúcares**: Quebram o jejum metabólico imediatamente.
-* **Adoçantes (Stévia/Adoçantes artificiais)**: **Não recomendados**. Mandam um sinal de "doce" ao cérebro, podendo disparar picos de insulina cefálica e gerar compulsão.
+### 🚫 A. Proteína Protegida (Sem Carboidrato Isolado)
+* **Regra**: Nunca consuma carboidrato de forma isolada (ex: comer salada de frutas pura no lanche).
+* **Solução**: Sempre combine o carboidrato com uma proteína (ex: salada de frutas + meia dose de whey, ou salada de frutas + 1 a 2 ovos). Isso reduz o índice glicêmico e evita a perda de massa muscular.
+* **Proteína em Todas as Refeições**: Essencial para manter o metabolismo ativo, mesmo em déficit calórico.
 
-### ☕ O que NÃO Quebra o Jejum (Permitido):
-* **Café puro**: Sem açúcar, sem adoçantes (escolha torra clara ou média para um sabor naturalmente mais adocicado).
-* **Chá puro**: Sem adições.
-* **Água**: À vontade.
-* **Água com sal**: 1g de sal integral (Himalaia, Atacama ou Mossoró) em 1,5L de água para dias de treinos ou cansaço (ajuda a repor eletrólitos).
-* **Própolis**: Gotas na água (desde que não misturado com mel).
-* **Limão**: Apenas algumas gotas (pequenas quantidades).
+### 🦷 B. Heurística da Mastigação Consciente (Sinal de Saciedade)
+* **Regra**: Mastigue **no mínimo 20 vezes** cada garfada de alimento.
+* **Por que?** Evita desconforto gastrointestinal na digestão das fibras e dá tempo fisiológico para o estômago enviar a resposta de **saciedade** para o cérebro.
+
+### 🩺 C. Heurística do Sono Reparador Feminino
+* **Regra**: Dormir **no mínimo 7 horas ou mais** por noite.
+* **Por que?** Noites curtas desregulam o cortisol e os hormônios da fome (grelina), fazendo com que você sinta muito mais fome e acumule gordura na região abdominal.
+
+### 💪 D. Heurística do Exercício Sem Fricção
+* **Regra**: Qualquer atividade física praticada **3 vezes por semana** já é extremamente válida e acelera o déficit calórico. Faça caminhada, musculação ou exercícios em casa.
 
 ---
 
 ## 🍽️ 7. A Ordem Correta dos Alimentos (Fórmula da Saciedade)
 
-Para manter a estabilidade da sua curva glicêmica, evitar a fome rebote e garantir que o seu corpo queime gordura de forma contínua, siga rigorosamente a seguinte **Ordem dos Alimentos** nas refeições principais:
+Para forrar o estômago, diminuir a velocidade de absorção e garantir estabilidade glicêmica total, consuma os alimentos nesta ordem em suas refeições principais:
 
 ```
-  1ª ETAPA: Verduras e Legumes (Fibras que forram o estômago e diminuem a velocidade de absorção)
+  1ª ETAPA: Verduras e Legumes (Fibras / Saladas - Coma primeiro!)
     │
     ▼
-  2ª ETAPA: Proteínas e Gorduras Saudáveis (Carnes, peixes, ovos - garantem saciedade profunda)
+  2ª ETAPA: Proteínas e Gorduras Saudáveis (Carnes, peixes, ovos)
     │
     ▼
-  3ª ETAPA (Opcional): Carboidratos Complexos (Arroz, feijão, batata-doces - apenas no final!)
+  3ª ETAPA (Opcional): Carboidratos Complexos (Arroz, feijão, raízes - apenas no final!)
 ```
 
 ---
 
-## 👖 8. O Registro Visual: Foto com a "Calça Apertada"
-1. Escolha uma calça que esteja **apertada** (que fecha, mas incomoda).
-2. Vista-a e tire uma foto de frente, em pé, com postura reta, mostrando o **corpo inteiro**.
-3. **Inviolável**: Tire a foto final no Dia 15 no **mesmo lugar, com a mesma pose e mesma roupa** para comparação.
-
----
-
-## 🗓️ 9. O Checklist Diário "Sem Quebrar a Corrente"
+## 🗓️ 8. O Checklist Diário "Sem Quebrar a Corrente"
 
 - [ ] **Tomar água ao acordar**
 - [ ] **Raspar a língua**
 - [ ] **Bater a meta de água**: **4,0 Litros por dia**
-- [ ] **Cumprir a meta de Jejum do dia** (ex: 12h, 13h, 14h, 16h)
-- [ ] **Quebrar o jejum com consciência** (usando a ordem ou opções recomendadas)
+- [ ] **Cumprir a meta de Jejum do dia** (variando conforme o cronograma)
+- [ ] **Quebrar o jejum sem carboidratos** (2 ovos + legumes/folhas + azeite)
+- [ ] **Mastigar no mínimo 20 vezes por garfada**
+- [ ] **Garantir proteína em todas as refeições** (incluindo lanches!)
 - [ ] **Meditação espiritual (5 minutos)** (leitura do versículo diário)
-- [ ] **Item Livre 1: Consumir proteínas em todas as refeições** *(Preservação de massa muscular)*
-- [ ] **Item Livre 2: Atividade física diária (Mínimo de 15 minutos)** *(Caminhada, musculação ou treino em casa)*
-
----
-
-> [!TIP]
-> **Mensagem do Sintetizador**: "Best, variando o tempo de jejum e consumindo proteína em todas as refeições, evitamos a perda de massa magra e maximizamos a perda de gordura visceral. A sua meta de hidratação é de 4 litros diários! Vamos firme com a corrente!"
+- [ ] **Mínimo de 7 horas de sono na noite anterior**
+- [ ] **Atividade física** (caminhada, musculação ou treino em casa)
